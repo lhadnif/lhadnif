@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lhadnif
-- 👀 I’m an application developer
-- 🌱 I’m currently learning js, powershell
+- 👀 I’m a full stack developer. 
 - 📫 thomas at findahl.net
 
 <!---
